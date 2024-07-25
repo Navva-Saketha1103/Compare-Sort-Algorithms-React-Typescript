@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/compare-sort-algorithms-react-typescript/static/css/main.5bb38246.css",
+    "main.js": "/compare-sort-algorithms-react-typescript/static/js/main.fe36340b.js",
+    "static/js/453.6cb9104b.chunk.js": "/compare-sort-algorithms-react-typescript/static/js/453.6cb9104b.chunk.js",
+    "index.html": "/compare-sort-algorithms-react-typescript/index.html",
+    "main.5bb38246.css.map": "/compare-sort-algorithms-react-typescript/static/css/main.5bb38246.css.map",
+    "main.fe36340b.js.map": "/compare-sort-algorithms-react-typescript/static/js/main.fe36340b.js.map",
+    "453.6cb9104b.chunk.js.map": "/compare-sort-algorithms-react-typescript/static/js/453.6cb9104b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb38246.css",
+    "static/js/main.fe36340b.js"
+  ]
+}
